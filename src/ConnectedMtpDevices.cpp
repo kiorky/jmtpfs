@@ -18,6 +18,7 @@
  * Boston, MA 02111-1301, USA.
  * licensing@fsf.org
  */
+#include <stdlib.h>
 #include "ConnectedMtpDevices.h"
 #include "MtpLibLock.h"
 
