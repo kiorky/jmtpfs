@@ -25,7 +25,7 @@
 #include <unistd.h>
 #include <algorithm>
 #include <magic.h>
-
+#include <stdlib.h>
 
 
 MtpFileInfo::MtpFileInfo(LIBMTP_file_t& info)
