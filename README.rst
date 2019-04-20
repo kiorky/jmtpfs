@@ -1,8 +1,4 @@
 
-    
-Support development
----------------------
-- `paypal <https://paypal.me/kiorky>`_
 
 jmtpfs:
 
